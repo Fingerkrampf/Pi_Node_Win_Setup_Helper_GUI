@@ -6,8 +6,7 @@
 
 A GUI tool to simplify the setup of a Pi Network Node on Windows. This script automates the installation and configuration of the necessary components.
 
-![Application Screenshot](https://i.imgur.com/your-screenshot-url.png)
-*(You can insert a screenshot of the user interface here)*
+![Application Screenshot]([https://i.imgur.com/your-screenshot-url.png](https://imgur.com/gIqjJUS))
 
 ---
 
@@ -80,8 +79,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 Ein GUI-Tool zur Vereinfachung der Einrichtung eines Pi Network Nodes unter Windows. Dieses Skript automatisiert die Installation und Konfiguration der notwendigen Komponenten.
 
-![Bildschirmfoto der Anwendung](https://i.imgur.com/your-screenshot-url.png)
-*(Hier könntest du einen Screenshot der Benutzeroberfläche einfügen)*
+![Bildschirmfoto der Anwendung]([https://i.imgur.com/your-screenshot-url.png](https://imgur.com/gIqjJUS))
 
 ---
 
