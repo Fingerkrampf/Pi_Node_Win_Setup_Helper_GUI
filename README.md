@@ -33,7 +33,7 @@ The tool provides a simple user interface to perform the following tasks:
 
 ### 🚀 Usage
 
-1.  Download the `Pi_Node_Win_Setup_Helper_GUI.exe` from the [Releases section](https://github.com/Fingerkrampf/Pi_Node_Win_Setup_Helper_GUI) (adjust link).
+1.  Download the `Pi_Node_Win_Setup_Helper_GUI.exe` from the [Releases section](https://github.com/Fingerkrampf/Pi_Node_Win_Setup_Helper_GUI).
 2.  Run the file as an administrator. The script will attempt to request these permissions itself if they are missing.
 3.  The user interface displays the status of each component:
     * ✅ **Green Checkmark:** The component is already correctly installed or configured.
@@ -104,7 +104,7 @@ Das Tool bietet eine einfache Benutzeroberfläche, um die folgenden Aufgaben aus
 
 ### 🚀 Benutzung
 
-1.  Lade die `Pi_Node_Win_Setup_Helper_GUI.exe` aus dem [Releases-Bereich](https://github.com/Fingerkrampf/Pi_Node_Win_Setup_Helper_GUI) herunter (Link anpassen).
+1.  Lade die `Pi_Node_Win_Setup_Helper_GUI.exe` aus dem [Releases-Bereich](https://github.com/Fingerkrampf/Pi_Node_Win_Setup_Helper_GUI) herunter.
 2.  Führe die Datei als Administrator aus. Das Skript wird versuchen, die Berechtigungen selbst anzufordern, falls sie fehlen.
 3.  Die Benutzeroberfläche zeigt den Status der einzelnen Komponenten an:
     * ✅ **Grüner Haken:** Die Komponente ist bereits korrekt installiert oder konfiguriert.
