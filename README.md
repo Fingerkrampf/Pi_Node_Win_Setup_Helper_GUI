@@ -6,8 +6,6 @@
 
 A GUI tool to simplify the setup of a Pi Network Node on Windows. This script automates the installation and configuration of the necessary components.
 
-![Application Screenshot](https://imgur.com/a/9Wv6Ts6)
-
 ---
 
 ### ✨ Features
@@ -78,8 +76,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 <br>
 
 Ein GUI-Tool zur Vereinfachung der Einrichtung eines Pi Network Nodes unter Windows. Dieses Skript automatisiert die Installation und Konfiguration der notwendigen Komponenten.
-
-![Bildschirmfoto der Anwendung](https://imgur.com/a/9Wv6Ts6)
 
 ---
 
