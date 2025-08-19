@@ -6,7 +6,7 @@
 
 A GUI tool to simplify the setup of a Pi Network Node on Windows. This script automates the installation and configuration of the necessary components.
 
-![Application Screenshot]([https://i.imgur.com/your-screenshot-url.png](https://imgur.com/gIqjJUS))
+![Application Screenshot](https://imgur.com/a/0Nb0eH7)
 
 ---
 
@@ -35,12 +35,12 @@ The tool provides a simple user interface to perform the following tasks:
 
 ### 🚀 Usage
 
-1.  Download the `Pi_Node_Win_Setup_Helper_GUI.exe` from the [Releases section](https://github.com/your-username/your-repo/releases) (adjust link).
+1.  Download the `Pi_Node_Win_Setup_Helper_GUI.exe` from the [Releases section](https://github.com/Fingerkrampf/Pi_Node_Win_Setup_Helper_GUI) (adjust link).
 2.  Run the file as an administrator. The script will attempt to request these permissions itself if they are missing.
 3.  The user interface displays the status of each component:
     * ✅ **Green Checkmark:** The component is already correctly installed or configured.
     * ❌ **Red Cross:** The component is missing or needs to be configured.
-4.  Click the corresponding buttons to start each action. The status display will automatically refresh every few seconds.
+4.  Click the corresponding buttons to start each action.
 
 ---
 
@@ -79,7 +79,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 Ein GUI-Tool zur Vereinfachung der Einrichtung eines Pi Network Nodes unter Windows. Dieses Skript automatisiert die Installation und Konfiguration der notwendigen Komponenten.
 
-![Bildschirmfoto der Anwendung]([https://i.imgur.com/your-screenshot-url.png](https://imgur.com/gIqjJUS))
+![Bildschirmfoto der Anwendung](https://imgur.com/a/0Nb0eH7)
 
 ---
 
@@ -108,12 +108,12 @@ Das Tool bietet eine einfache Benutzeroberfläche, um die folgenden Aufgaben aus
 
 ### 🚀 Benutzung
 
-1.  Lade die `Pi_Node_Win_Setup_Helper_GUI.exe` aus dem [Releases-Bereich](https://github.com/your-username/your-repo/releases) herunter (Link anpassen).
+1.  Lade die `Pi_Node_Win_Setup_Helper_GUI.exe` aus dem [Releases-Bereich](https://github.com/Fingerkrampf/Pi_Node_Win_Setup_Helper_GUI) herunter (Link anpassen).
 2.  Führe die Datei als Administrator aus. Das Skript wird versuchen, die Berechtigungen selbst anzufordern, falls sie fehlen.
 3.  Die Benutzeroberfläche zeigt den Status der einzelnen Komponenten an:
     * ✅ **Grüner Haken:** Die Komponente ist bereits korrekt installiert oder konfiguriert.
     * ❌ **Rotes Kreuz:** Die Komponente fehlt oder muss konfiguriert werden.
-4.  Klicke auf die entsprechenden Schaltflächen, um die jeweilige Aktion zu starten. Die Statusanzeige wird sich alle paar Sekunden automatisch aktualisieren.
+4.  Klicke auf die entsprechenden Schaltflächen, um die jeweilige Aktion zu starten.
 
 ---
 
