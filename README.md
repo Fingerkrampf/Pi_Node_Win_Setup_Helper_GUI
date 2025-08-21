@@ -4,7 +4,7 @@
 <summary><strong>English Version</strong> (Click to expand)</summary>
 <br>
 
-A GUI tool to simplify the setup of a Pi Network Node on Windows. This script automates the installation and configuration of the necessary components.
+A GUI tool to simplify the setup of a Pi Network Node on Windows. This tool automates the installation and configuration of the necessary components.
 
 ---
 
@@ -29,13 +29,13 @@ The tool provides a simple user interface to perform the following tasks:
 * **Operating System:** Windows 11
     * ⚠️ **Note:** This script has been **tested exclusively on Windows 11**. It may work on Windows 10, but this has not been verified and is not guaranteed.
 * **Installation Type:** For the script to function correctly, a **fresh, full, and genuine Windows installation** is required. The script may not work properly on modified or "Lite" versions of Windows, as essential system components could be missing.
-* **Server:** An Ubuntu server with a public IPv4 address must be available.
+* **Server:** An Ubuntu server with a public IPv4 address and root access must be available.
 ---
 
 ### 🚀 Usage
 
 1.  Download the `Pi_Node_Win_Setup_Helper_GUI.exe` from the [Releases section](https://github.com/Fingerkrampf/Pi_Node_Win_Setup_Helper_GUI).
-2.  Run the file as an administrator. The script will attempt to request these permissions itself if they are missing.
+2.  Run the file as an administrator. The tool will attempt to request these permissions itself if they are missing.
 3.  The user interface displays the status of each component:
     * ✅ **Green Checkmark:** The component is already correctly installed or configured.
     * ❌ **Red Cross:** The component is missing or needs to be configured.
@@ -76,7 +76,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 <summary><strong>Deutsche Version</strong> (Klicken zum Ausklappen)</summary>
 <br>
 
-Ein GUI-Tool zur Vereinfachung der Einrichtung eines Pi Network Nodes unter Windows. Dieses Skript automatisiert die Installation und Konfiguration der notwendigen Komponenten.
+Ein GUI-Tool zur Vereinfachung der Einrichtung eines Pi Network Nodes unter Windows. Dieses Tool automatisiert die Installation und Konfiguration der notwendigen Komponenten.
 
 ---
 
@@ -92,7 +92,7 @@ Das Tool bietet eine einfache Benutzeroberfläche, um die folgenden Aufgaben aus
 * **WireGuard Client:** Installiert den WireGuard VPN-Client.
 * **WireGuard Schlüssel:** Generiert lokale Schlüsselpaare für eine sichere VPN-Verbindung.
 * **WireGuard Server-Setup:** Konfiguriert automatisch einen WireGuard-Peer auf einem Linux-Server via SSH für eine nahtlose VPN-Verbindung.
-* **Server:** Server: Es muss ein Ubuntu Server mit einer öffentlichen IPv4-Adresse zur Verfügung stehen.
+* **Server:** Es muss ein Ubuntu Server mit einer öffentlichen IPv4-Adresse zur Verfügung stehen.
     * ⚠️ **Hinweis:** Der UDP-Port 51820 muss in der Firewall des Serveranbieters (meist über deren Webinterface) freigegeben werden.
 ---
 
@@ -101,14 +101,14 @@ Das Tool bietet eine einfache Benutzeroberfläche, um die folgenden Aufgaben aus
 * **Betriebssystem:** Windows 11
     * ⚠️ **Hinweis:** Das Skript wurde **ausschließlich unter Windows 11 getestet**. Es ist möglich, dass es auch unter Windows 10 funktioniert, dies wurde jedoch nicht überprüft und wird nicht garantiert.
 * **Installationsart:** Für eine einwandfreie Funktion wird eine **frische, vollwertige und originale Windows-Installation** vorausgesetzt. Das Skript funktioniert möglicherweise nicht ordnungsgemäß auf modifizierten oder "Lite"-Versionen von Windows, da wichtige Systemkomponenten fehlen könnten.
-* **Server:** Es muss ein Ubuntu Server mit einer öffentlichen IPv4-Adresse zur Verfügung stehen.
+* **Server:** Ein Ubuntu-Server mit einer öffentlichen IPv4-Adresse und Root-Zugriff muss verfügbar sein.
 
 ---
 
 ### 🚀 Benutzung
 
 1.  Lade die `Pi_Node_Win_Setup_Helper_GUI.exe` aus dem [Releases-Bereich](https://github.com/Fingerkrampf/Pi_Node_Win_Setup_Helper_GUI) herunter.
-2.  Führe die Datei als Administrator aus. Das Skript wird versuchen, die Berechtigungen selbst anzufordern, falls sie fehlen.
+2.  Führe die Datei als Administrator aus. Das Tool wird versuchen, die Berechtigungen selbst anzufordern, falls sie fehlen.
 3.  Die Benutzeroberfläche zeigt den Status der einzelnen Komponenten an:
     * ✅ **Grüner Haken:** Die Komponente ist bereits korrekt installiert oder konfiguriert.
     * ❌ **Rotes Kreuz:** Die Komponente fehlt oder muss konfiguriert werden.
@@ -135,10 +135,10 @@ Dieses Projekt steht unter der **MIT License**.
 
 Copyright (c) 2025 Fingerkrampf
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+Hiermit wird allen Personen, die eine Kopie dieser Software und der zugehörigen Dokumentationsdateien (die „Software“) erhalten, unentgeltlich die Erlaubnis erteilt, die Software uneingeschränkt zu nutzen, insbesondere das Recht, sie zu verwenden, zu kopieren, zu ändern, zusammenzufügen, zu veröffentlichen, zu verteilen, unterzulizenzieren und/oder Kopien der Software zu verkaufen, und diese Rechte unter den folgenden Bedingungen anderen Personen zu übertragen:
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+Der obige Urheberrechtsvermerk und dieser Genehmigungsvermerk müssen in allen Kopien oder wesentlichen Teilen der Software enthalten sein.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+Die Software wird „so wie sie ist“ und ohne jegliche ausdrückliche oder stillschweigende Gewährleistung bereitgestellt, insbesondere für die Gewährleistung der Marktgängigkeit, der Eignung für einen bestimmten Zweck und der Nichtverletzung von Rechten Dritter. DIE AUTOREN ODER URHEBERRECHTSINHABER SIND IN KEINEM FALL FÜR JEGLICHE ANSPRÜCHE, SCHÄDEN ODER ANDERE VERBINDLICHKEITEN VERANTWORTLICH, OB AUS VERTRAG, UNERLAUBTER HANDLUNG ODER ANDERWEITIG, DIE AUS DER SOFTWARE ODER DER VERWENDUNG ODER ANDEREN UMGANG MIT DER SOFTWARE ENTSTEHEN, DAMIT IN VERBINDUNG STEHEN.
 
 </details>
