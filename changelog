@@ -1,2 +1,4 @@
-2025-08-19: Initial public release of the Pi Node Windows Setup Helper GUI Tool (v1.0).
+2025-08-23: Hotfix v1.02: Fixes some bugs in the Linux Server Firewall configuration when TCP ports are closed. IMPORTANT: Only run with Wireguard connection deactivated!
 2025-08-21: Hotfix v1.01: Removed duplicate Windows startup entry for the Node software.
+2025-08-19: Initial public release of the Pi Node Windows Setup Helper GUI Tool (v1.0).
+
