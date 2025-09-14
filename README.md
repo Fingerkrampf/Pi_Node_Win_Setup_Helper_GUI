@@ -23,6 +23,7 @@ The tool provides a simple user interface to perform the following tasks:
 * **WireGuard Keys:** Generates local key pairs for a secure VPN connection.
 * **WireGuard Server Setup:** Automatically configures a WireGuard peer on a Linux server via SSH for a seamless VPN connection.
     * ⚠️ **Note:** The UDP port 51820 must be opened in the firewall of the server provider, which is usually done via their web interface.
+    * ⚠️ **Note:** The TCP ports 31400-31409 must be opened in the firewall of the server provider, which is usually done via their web interface.
 
 ---
 
@@ -97,6 +98,7 @@ Das Tool bietet eine einfache Benutzeroberfläche, um die folgenden Aufgaben aus
 * **WireGuard Server-Setup:** Konfiguriert automatisch einen WireGuard-Peer auf einem Linux-Server via SSH für eine nahtlose VPN-Verbindung.
 * **Server:** Es muss ein Ubuntu Server mit einer öffentlichen IPv4-Adresse zur Verfügung stehen.
     * ⚠️ **Hinweis:** Der UDP-Port 51820 muss in der Firewall des Serveranbieters (meist über deren Webinterface) freigegeben werden.
+    * ⚠️ **Hinweis:** Die TCP-Ports 31400-31409 müssen in der Firewall des Serveranbieters (meist über deren Webinterface) freigegeben werden.
 ---
 
 ### 💻 Systemanforderungen
