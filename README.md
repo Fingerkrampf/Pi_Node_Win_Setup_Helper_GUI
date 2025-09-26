@@ -32,7 +32,8 @@ The tool provides a simple user interface to perform the following tasks:
 * **Operating System:** Windows 11
     * ⚠️ **Note:** This script has been **tested exclusively on Windows 11**. It may work on Windows 10, but this has not been verified and is not guaranteed.
 * **Installation Type:** For the script to function correctly, a **fresh, full, and genuine Windows installation** is required. The script may not work properly on modified or "Lite" versions of Windows, as essential system components could be missing.
-* **Server:** An Ubuntu server with a public IPv4 address and root access must be available.
+* **Server:** An Ubuntu server with a public IPv4 address and root access must be available
+
 ---
 
 ### 🚀 Usage
@@ -44,6 +45,11 @@ The tool provides a simple user interface to perform the following tasks:
     * ❌ **Red Cross:** The component is missing or needs to be configured.
 4.  Click the corresponding buttons to start each action.
 5.  Optionally, check the changelog for any hotfix .bat files and run them as an administrator after using the tool.
+   
+---
+
+### 📹 Youtube Howto Video:
+https://youtu.be/33ltH5KaADg?feature=shared
 
 ---
 
@@ -121,6 +127,11 @@ Das Tool bietet eine einfache Benutzeroberfläche, um die folgenden Aufgaben aus
 5.  Prüfe optional in den Changelog auf eventuelle Hotfix-.bat-Dateien und führe diese am Ende der Nutzung des Tools als Administrator aus.
 
 ---
+
+### 📹 Youtube Howto Video:
+https://youtu.be/YVXERVwJiTI?feature=shared
+
+--
 
 ### ⚠️ Haftungsausschluss
 
