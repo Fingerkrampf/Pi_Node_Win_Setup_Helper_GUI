@@ -1,4 +1,4 @@
-2025-10-05: Version 1.1: Added real-time log display for WireGuard server configuration, fixed duplicate Pi Node Windows autostart entry, and fully integrated all IPTables rules - no hotfix version 1.01 & 1.02 needed anymore.
+2025-10-05: Version 1.1: Added real-time WireGuard server config logs window, fixed duplicate Pi Node Windows autostart (hotfix 1.01 obsolete), integrated all IPTables rules (hotfix 1.02 obsolete), and added right-click paste for server credentials.
 2025-08-23: Hotfix v1.02: Fixes some bugs in the Linux Server Firewall configuration when TCP ports are closed. IMPORTANT: Only run with Wireguard connection deactivated!
 2025-08-21: Hotfix v1.01: Removed duplicate Windows startup entry for the Node software.
 2025-08-19: Initial public release of the Pi Node Windows Setup Helper GUI Tool (v1.0).
