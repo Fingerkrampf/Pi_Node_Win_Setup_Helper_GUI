@@ -44,7 +44,6 @@ The tool provides a simple user interface to perform the following tasks:
     * ✅ **Green Checkmark:** The component is already correctly installed or configured.
     * ❌ **Red Cross:** The component is missing or needs to be configured.
 4.  Click the corresponding buttons to start each action.
-5.  Optionally, check the changelog for any hotfix .bat files and run them as an administrator after using the tool.
    
 ---
 
@@ -124,7 +123,6 @@ Das Tool bietet eine einfache Benutzeroberfläche, um die folgenden Aufgaben aus
     * ✅ **Grüner Haken:** Die Komponente ist bereits korrekt installiert oder konfiguriert.
     * ❌ **Rotes Kreuz:** Die Komponente fehlt oder muss konfiguriert werden.
 4.  Klicke auf die entsprechenden Schaltflächen, um die jeweilige Aktion zu starten.
-5.  Prüfe optional in den Changelog auf eventuelle Hotfix-.bat-Dateien und führe diese am Ende der Nutzung des Tools als Administrator aus.
 
 ---
 
