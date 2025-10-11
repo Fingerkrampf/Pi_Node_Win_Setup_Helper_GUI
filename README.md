@@ -1,7 +1,7 @@
 # Pi Node Win Setup Helper GUI
 
 ![Screenshot 1](screenshot/Screenshot%2025-10-11%173644.png)
-![Screenshot 2](screenshot/Screenshot%202025-10-11%20153442.png)
+![Screenshot 2](screenshot/Screenshot%2025-10-11%20153442.png)
 
 <details>
 <summary><strong>English Version</strong> (Click to expand)</summary>
