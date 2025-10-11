@@ -1,8 +1,7 @@
 # Pi Node Win Setup Helper GUI
 
-(screenshot/Screenshot 2025-10-11 153442.png)](https://github.com/Fingerkrampf/Pi_Node_Win_Setup_Helper_GUI/blob/2259798006f83061b976f730d2c539a752d5d2e3/screenshot/Screenshot%202025-10-11%20173644.png)
-
-([screenshot/Screenshot 2025-10-11 173644.png](https://github.com/Fingerkrampf/Pi_Node_Win_Setup_Helper_GUI/blob/2259798006f83061b976f730d2c539a752d5d2e3/screenshot/Screenshot%202025-10-11%20153442.png))
+![Screenshot 1](screenshot/Screenshot%202025-10-11%20153442.png)
+![Screenshot 2](screenshot/Screenshot%202025-10-11%20153442.png)
 
 <details>
 <summary><strong>English Version</strong> (Click to expand)</summary>
