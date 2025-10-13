@@ -35,7 +35,7 @@ The tool provides a simple user interface to perform the following tasks:
 * **Operating System:** Windows 11
     * ⚠️ **Note:** This script has been **tested exclusively on Windows 11**. It may work on Windows 10, but this has not been verified and is not guaranteed.
 * **Installation Type:** For the script to function correctly, a **fresh, full, and genuine Windows installation** is required. The script may not work properly on modified or "Lite" versions of Windows, as essential system components could be missing.
-* **Server:** An Ubuntu server with a public IPv4 address and root access must be available
+* **Server:** An Debian-based (i.e. Ubuntu) server with a public IPv4 address and root access must be available
 
 ---
 
@@ -104,7 +104,7 @@ Das Tool bietet eine einfache Benutzeroberfläche, um die folgenden Aufgaben aus
 * **WireGuard Client:** Installiert den WireGuard VPN-Client.
 * **WireGuard Schlüssel:** Generiert lokale Schlüsselpaare für eine sichere VPN-Verbindung.
 * **WireGuard Server-Setup:** Konfiguriert automatisch einen WireGuard-Peer auf einem Linux-Server via SSH für eine nahtlose VPN-Verbindung.
-* **Server:** Es muss ein Ubuntu Server mit einer öffentlichen IPv4-Adresse zur Verfügung stehen.
+* **Server:** Es muss ein Debian-basierter (z.B. Ubuntu) Server mit einer öffentlichen IPv4-Adresse zur Verfügung stehen.
     * ⚠️ **Hinweis:** Der UDP-Port 51820 muss in der Firewall des Serveranbieters (meist über deren Webinterface) freigegeben werden.
     * ⚠️ **Hinweis:** Die TCP-Ports 31400-31409 müssen in der Firewall des Serveranbieters (meist über deren Webinterface) freigegeben werden.
 ---
@@ -114,7 +114,7 @@ Das Tool bietet eine einfache Benutzeroberfläche, um die folgenden Aufgaben aus
 * **Betriebssystem:** Windows 11
     * ⚠️ **Hinweis:** Das Skript wurde **ausschließlich unter Windows 11 getestet**. Es ist möglich, dass es auch unter Windows 10 funktioniert, dies wurde jedoch nicht überprüft und wird nicht garantiert.
 * **Installationsart:** Für eine einwandfreie Funktion wird eine **frische, vollwertige und originale Windows-Installation** vorausgesetzt. Das Skript funktioniert möglicherweise nicht ordnungsgemäß auf modifizierten oder "Lite"-Versionen von Windows, da wichtige Systemkomponenten fehlen könnten.
-* **Server:** Ein Ubuntu-Server mit einer öffentlichen IPv4-Adresse und Root-Zugriff muss verfügbar sein.
+* **Server:** Ein Debian-basierter (z.B. Ubuntu) Server mit einer öffentlichen IPv4-Adresse und Root-Zugriff muss verfügbar sein.
 
 ---
 
