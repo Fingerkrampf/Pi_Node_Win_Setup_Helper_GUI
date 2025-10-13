@@ -1,3 +1,4 @@
+2025-10-13: Version 1.15: Visual adjustments, minor bug fixes and notes added to the manually configured port forwarding in the server provider's web interface.
 2025-10-11: Version 1.14: Visual GUI adjustments, improved Windows Firewall port checking, changes to improve and more stable network connection to the server.
 2025-10-06: Version 1.11: The detection of the public network interface from server was made more robust to avoid issues in complex network setups.
 2025-10-05: Version 1.1: Added real-time WireGuard server config logs window, fixed duplicate Pi Node Windows autostart (hotfix 1.01 obsolete), integrated all IPTables rules (hotfix 1.02 obsolete), and added right-click paste for server credentials.
