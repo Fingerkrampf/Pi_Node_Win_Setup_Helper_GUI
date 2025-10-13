@@ -64,7 +64,7 @@ Use of this tool is at your **own risk**. It performs system-level changes (e.g.
 ### ✍️ Author & Contact
 
 * **Author:** Fingerkrampf
-* **Contact:** via Telegram at [PiNetzwerkDeutschland](https://t.me/PiNetzwerkDeutschland)
+* **Contact:** via Telegram
 
 ---
 
@@ -143,7 +143,7 @@ Die Nutzung dieses Tools erfolgt auf **eigene Gefahr**. Es werden systemnahe Än
 ### ✍️ Autor & Kontakt
 
 * **Autor:** Fingerkrampf
-* **Kontakt:** via Telegram bei [PiNetzwerkDeutschland](https://t.me/PiNetzwerkDeutschland)
+* **Kontakt:** via Telegram
 
 ---
 
