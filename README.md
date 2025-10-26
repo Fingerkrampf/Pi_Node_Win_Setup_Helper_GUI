@@ -32,7 +32,7 @@ The tool provides a simple user interface to perform the following tasks:
 
 ### 💻 System Requirements
 
-* **Operating System:** Windows 11
+* **Operating System:** Windows 11 - latest version
     * ⚠️ **Note:** This script has been **tested exclusively on Windows 11**. It may work on Windows 10, but this has not been verified and is not guaranteed.
 * **Installation Type:** For the script to function correctly, a **fresh, full, and genuine Windows installation** is required. The script may not work properly on modified or "Lite" versions of Windows, as essential system components could be missing.
 * **Server:** An Debian-based (i.e. Ubuntu) server with a public IPv4 address and root access must be available
@@ -111,7 +111,7 @@ Das Tool bietet eine einfache Benutzeroberfläche, um die folgenden Aufgaben aus
 
 ### 💻 Systemanforderungen
 
-* **Betriebssystem:** Windows 11
+* **Betriebssystem:** Windows 11 - aktuellste Version
     * ⚠️ **Hinweis:** Das Skript wurde **ausschließlich unter Windows 11 getestet**. Es ist möglich, dass es auch unter Windows 10 funktioniert, dies wurde jedoch nicht überprüft und wird nicht garantiert.
 * **Installationsart:** Für eine einwandfreie Funktion wird eine **frische, vollwertige und originale Windows-Installation** vorausgesetzt. Das Skript funktioniert möglicherweise nicht ordnungsgemäß auf modifizierten oder "Lite"-Versionen von Windows, da wichtige Systemkomponenten fehlen könnten.
 * **Server:** Ein Debian-basierter (z.B. Ubuntu) Server mit einer öffentlichen IPv4-Adresse und Root-Zugriff muss verfügbar sein.
