@@ -41,7 +41,7 @@ The tool provides a simple user interface to perform the following tasks:
 
 ### 🚀 Usage
 
-1.  Download the released file 'Pi_Node_Win_Setup_Helper_GUI_v1.1.exe'.
+1.  Download the released file 'Pi_Node_Win_Setup_Helper_GUI_v2.0.exe'.
 2.  Run the file as an administrator. The tool will attempt to request these permissions itself if they are missing.
 3.  The user interface displays the status of each component:
     * ✅ **Green Checkmark:** The component is already correctly installed or configured.
@@ -120,7 +120,7 @@ Das Tool bietet eine einfache Benutzeroberfläche, um die folgenden Aufgaben aus
 
 ### 🚀 Benutzung
 
-1.  Downloade die veröffentlichte Datei 'Pi_Node_Win_Setup_Helper_GUI_v1.1.exe'.
+1.  Downloade die veröffentlichte Datei 'Pi_Node_Win_Setup_Helper_GUI_v2.0.exe'.
 2.  Führe die Datei als Administrator aus. Das Tool wird versuchen, die Berechtigungen selbst anzufordern, falls sie fehlen.
 3.  Die Benutzeroberfläche zeigt den Status der einzelnen Komponenten an:
     * ✅ **Grüner Haken:** Die Komponente ist bereits korrekt installiert oder konfiguriert.
