@@ -64,7 +64,7 @@ Use of this tool is at your **own risk**. It performs system-level changes (e.g.
 ### ✍️ Author & Contact
 
 * **Author:** Fingerkrampf
-* **Contact:** via Telegram
+* **Contact:** via Github
 
 ---
 
@@ -143,7 +143,7 @@ Die Nutzung dieses Tools erfolgt auf **eigene Gefahr**. Es werden systemnahe Än
 ### ✍️ Autor & Kontakt
 
 * **Autor:** Fingerkrampf
-* **Kontakt:** via Telegram
+* **Kontakt:** via Github
 
 ---
 
