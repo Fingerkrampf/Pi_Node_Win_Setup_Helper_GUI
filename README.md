@@ -1,8 +1,8 @@
 # Pi Node Win Setup Helper GUI
 
 <div align="center">
-  <img src="https://github.com/Fingerkrampf/Pi_Node_Win_Setup_Helper_GUI/blob/main/screenshot/Screenshot%202025-10-26%20123425.png" width="45%" style="max-width: "350px"; height: auto;" alt="Screenshot 1">
-  <img src="https://github.com/Fingerkrampf/Pi_Node_Win_Setup_Helper_GUI/blob/main/screenshot/Screenshot%202025-10-26%20123631.png" width="45%" style="max-width: "350px"; height: auto;" alt="Screenshot 2">
+  <img src="https://github.com/Fingerkrampf/Pi_Node_Win_Setup_Helper_GUI/blob/main/screenshot/Screenshot%202025-10-27%20225950.png" width="45%" style="max-width: "350px"; height: auto;" alt="Screenshot 1">
+  <img src="https://github.com/Fingerkrampf/Pi_Node_Win_Setup_Helper_GUI/blob/main/screenshot/Screenshot%202025-10-27%20225959.png" width="45%" style="max-width: "350px"; height: auto;" alt="Screenshot 2">
 </div>
 
 <details>
