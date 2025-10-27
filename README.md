@@ -68,17 +68,35 @@ Use of this tool is at your **own risk**. It performs system-level changes (e.g.
 
 ---
 
-### 📜 License
+### 📜 License (GPLv3)
 
-This project is licensed under the **MIT License**.
+This project is licensed under the GNU General Public License Version 3 (GPLv3) or (at your option) any later version.
+Key Principles
+The GPLv3 is a copyleft license. This means it ensures the software remains free for all its users.
+You have the freedom to:
 
+    Run the program for any purpose.
+
+    Study and change the program (as the source code is accessible).
+
+    Redistribute copies.
+
+    Distribute your modified versions.
+
+You have the responsibility (Copyleft):
+
+    If you convey (distribute) the program or a modified version based upon it, you must make the source code available.
+
+    The distributed version must also be licensed under the GPLv3 (or a later version). You may not restrict the software's freedom.
+
+Copyright Notice
 Copyright (c) 2025 Fingerkrampf
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+Disclaimer of Warranty
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+Full License Text
+You should have received a copy of the GNU General Public License along with this program. If not, see https://www.gnu.org/licenses/.
 
 </details>
 
@@ -147,16 +165,33 @@ Die Nutzung dieses Tools erfolgt auf **eigene Gefahr**. Es werden systemnahe Än
 
 ---
 
-### 📜 Lizenz
+📜 Lizenz (GPLv3)
 
-Dieses Projekt steht unter der **MIT License**.
+Dieses Projekt steht unter der GNU General Public License Version 3 (GPLv3) oder (nach Ihrer Wahl) jeder späteren Version.
+Wichtigste Punkte
+Die GPLv3 ist eine Copyleft-Lizenz. Das bedeutet, sie gewährleistet, dass die Software für alle Benutzer frei bleibt.
+Sie haben die Freiheit:
 
+    Das Programm für jeden Zweck auszuführen.
+
+    Das Programm zu studieren und zu ändern (da der Quellcode zugänglich ist).
+
+    Kopien weiterzuverbreiten.
+
+    Ihre geänderten Versionen zu verbreiten.
+
+Sie haben die Verantwortung (Copyleft):
+
+    Wenn Sie das Programm oder eine darauf basierende, modifizierte Version verbreiten, müssen Sie den Quellcode zur Verfügung stellen.
+
+    Die verbreitete Version muss ebenfalls unter der GPLv3 (oder einer späteren Version) lizenziert werden. Sie können die Freiheit der Software nicht einschränken.
+
+Copyright-Hinweis
 Copyright (c) 2025 Fingerkrampf
 
-Hiermit wird allen Personen, die eine Kopie dieser Software und der zugehörigen Dokumentationsdateien (die „Software“) erhalten, unentgeltlich die Erlaubnis erteilt, die Software uneingeschränkt zu nutzen, insbesondere das Recht, sie zu verwenden, zu kopieren, zu ändern, zusammenzufügen, zu veröffentlichen, zu verteilen, unterzulizenzieren und/oder Kopien der Software zu verkaufen, und diese Rechte unter den folgenden Bedingungen anderen Personen zu übertragen:
+Gewährleistungsausschluss
+Dieses Programm wird in der Hoffnung bereitgestellt, dass es nützlich sein wird, jedoch OHNE JEDE GEWÄHRLEISTUNG; sogar ohne die implizite Gewährleistung der MARKTFÄHIGKEIT oder der EIGNUNG FÜR EINEN BESTIMMTEN ZWECK.
+Vollständiger Lizenztext
 
-Der obige Urheberrechtsvermerk und dieser Genehmigungsvermerk müssen in allen Kopien oder wesentlichen Teilen der Software enthalten sein.
-
-Die Software wird „so wie sie ist“ und ohne jegliche ausdrückliche oder stillschweigende Gewährleistung bereitgestellt, insbesondere für die Gewährleistung der Marktgängigkeit, der Eignung für einen bestimmten Zweck und der Nichtverletzung von Rechten Dritter. DIE AUTOREN ODER URHEBERRECHTSINHABER SIND IN KEINEM FALL FÜR JEGLICHE ANSPRÜCHE, SCHÄDEN ODER ANDERE VERBINDLICHKEITEN VERANTWORTLICH, OB AUS VERTRAG, UNERLAUBTER HANDLUNG ODER ANDERWEITIG, DIE AUS DER SOFTWARE ODER DER VERWENDUNG ODER ANDEREN UMGANG MIT DER SOFTWARE ENTSTEHEN, DAMIT IN VERBINDUNG STEHEN.
-
+Sie sollten eine vollständige Kopie der GNU General Public License zusammen mit diesem Programm erhalten haben. Ist dies nicht der Fall, siehe https://www.gnu.org/licenses/.
 </details>
